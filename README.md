@@ -10,7 +10,7 @@ The dataset can be found in the following folders:
 The **NSGA-II optimization** results are available in:  
 
 - 📌 **`opti_compo/`** → Optimization based on compositional data.  
-- 📌 **`opti_phase/`** → Optimization based on physical feature data.  
+- 📌 **`opti_phase/`** → Optimization based on physical feature-based data.  
 
 ## 📖 Citation  
 If you find these data and codes useful, please consider citing our paper:  
